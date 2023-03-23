@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MaxBiValue": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\don\\source\\repos\\MaxBiValue\\MaxBiValue\\TestItems.txt"
+    }
+  }
+}
